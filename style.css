@@ -11,6 +11,11 @@ body{
     box-shadow: 5px 5px 20px gray;
 }
 
+.submit-area:hover{
+    box-shadow: 10px 10px 40px grey;
+
+}
+
 #transaction-area{
     display: none;
 }
